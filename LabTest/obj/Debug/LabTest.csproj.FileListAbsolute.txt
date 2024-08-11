@@ -18,3 +18,13 @@ C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.csproj.GenerateResour
 C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.csproj.CoreCompileInputs.cache
 C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.exe
 C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.pdb
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\bin\Debug\LabTest.exe.config
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\bin\Debug\LabTest.exe
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\bin\Debug\LabTest.pdb
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.csproj.AssemblyReference.cache
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.no1.resources
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.Properties.Resources.resources
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.csproj.GenerateResource.cache
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.csproj.CoreCompileInputs.cache
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.exe
+C:\Users\95977\Desktop\C# Tesing\C-Testing\LabTest\obj\Debug\LabTest.pdb
