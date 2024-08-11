@@ -1,0 +1,20 @@
+D:\Aung Kan Phyo\C#\LabTest\LabTest\bin\Debug\LabTest.exe.config
+D:\Aung Kan Phyo\C#\LabTest\LabTest\bin\Debug\LabTest.exe
+D:\Aung Kan Phyo\C#\LabTest\LabTest\bin\Debug\LabTest.pdb
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.csproj.AssemblyReference.cache
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.no1.resources
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.Properties.Resources.resources
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.csproj.GenerateResource.cache
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.csproj.CoreCompileInputs.cache
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.exe
+D:\Aung Kan Phyo\C#\LabTest\LabTest\obj\Debug\LabTest.pdb
+C:\Users\as\Desktop\c# lessons\C-Testing\bin\Debug\LabTest.exe.config
+C:\Users\as\Desktop\c# lessons\C-Testing\bin\Debug\LabTest.exe
+C:\Users\as\Desktop\c# lessons\C-Testing\bin\Debug\LabTest.pdb
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.no1.resources
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.Properties.Resources.resources
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.csproj.GenerateResource.cache
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.exe
+C:\Users\as\Desktop\c# lessons\C-Testing\obj\Debug\LabTest.pdb
