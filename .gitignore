@@ -1,0 +1,5 @@
+.vs
+
+# Ignore specific database file
+LabTestDatabase.mdf
+LabTestDatabase_log.ldf
